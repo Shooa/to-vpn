@@ -1,0 +1,5 @@
+# Комментарии
+*.youtube.com to-vpn
+*.google.com to-vpn
+*.netflix.com to-vpn
+*.discord.com to-vpn
